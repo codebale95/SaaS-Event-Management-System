@@ -1,12 +1,3 @@
-path('', views.home, name='home'),
-    path('events/', views.events_list, name='events'),
-    path('events/<int:event_id>/', views.event_detail, name='event_detail'),
-    path('login/', views.login_view, name='login'),
-    path('register/', views.register_view, name='register'),
-    path('logout/', views.logout_view, name='logout'),
-    path('purchase_ticket/<int:event_id>/', views.purchase_ticket, name='purchase_ticket'),
-]
-=======
 from django.urls import path
 from . import views
 

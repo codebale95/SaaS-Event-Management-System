@@ -1,6 +1,6 @@
 # Event Platform - SaaS Event Management System
 
-Hey there! I'm a 19-year-old dev who built this cool SaaS Event Platform using Django and Django REST Framework. It's basically a system where people can create events, manage them, and let others enroll. Super useful for organizing meetups, conferences, or whatever events you can think of. Let me walk you through how to get it running and what it does.
+SaaS Event Platform using Django and Django REST Framework. It's basically a system where people can create events, manage them, and let others enroll. Super useful for organizing meetups, conferences, or whatever events you can think of. Let me walk you through how to get it running and what it does.
 
 ## 🚀 Features
 
